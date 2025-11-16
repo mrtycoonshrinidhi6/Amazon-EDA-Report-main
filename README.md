@@ -99,10 +99,6 @@ Note: these findings are a summary of the notebook's visual outputs — verify d
 
 ---
 
-If you'd like, I can also:
-- add a `requirements.txt` with exact package versions used in the notebook,
-- export the cleaned dataset to `data/cleaned.csv` and update the notebook to read from it,
-- or create a short presentation (PDF) with the `visuals/` charts.
 
 
 
